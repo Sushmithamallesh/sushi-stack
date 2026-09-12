@@ -1,4 +1,4 @@
-# cursor-skills
+# sushi-stack
 
 Personal Cursor Agent Skills. Each skill is a directory with a `SKILL.md`.
 
@@ -7,14 +7,14 @@ Add skills here when you want them. Cursor loads personal skills from `~/.cursor
 ## Use this repo as your skills folder
 
 ```bash
-git clone git@github.com:Sushmithamallesh/cursor-skills.git ~/.cursor/skills
+git clone git@github.com:Sushmithamallesh/sushi-stack.git ~/.cursor/skills
 ```
 
 If `~/.cursor/skills` already exists, clone elsewhere and symlink:
 
 ```bash
-git clone git@github.com:Sushmithamallesh/cursor-skills.git ~/Developer/cursor-skills
-ln -s ~/Developer/cursor-skills ~/.cursor/skills
+git clone git@github.com:Sushmithamallesh/sushi-stack.git ~/Developer/sushi-stack
+ln -s ~/Developer/sushi-stack ~/.cursor/skills
 ```
 
 Do not put skills in `~/.cursor/skills-cursor/` — that folder is Cursor’s built-in skills.
