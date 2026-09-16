@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="A little tower of nigiri on a cream counter" width="920" />
+  <img src="assets/mascot.png" alt="Two round nigiri with little faces, wrapped in nori" width="420" />
 </p>
 
 <h1 align="center">sushi-stack</h1>
