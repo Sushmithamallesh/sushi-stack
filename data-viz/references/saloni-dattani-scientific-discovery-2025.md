@@ -82,10 +82,6 @@ A chart without a source is a vibe. Minimum: source on the figure, footnotes for
 
 Not a requirement for this skill. Her path: R + ggplot2 → SVG → Illustrator or Figma for annotation; Datawrapper for standard interactive bars, lines, maps, bubbles (strong defaults, fewer rotated labels in the wild). PowerPoint/Preview only for tiny tweaks.
 
-## See also (named in the piece; not distilled here)
+## See also (now distilled next to this file)
 
-- Datawrapper, *Do’s and Don’ts in data visualization*
-- Franconeri, Padilla, Shah, Zacks, Hullman — *The Science of Visual Data Communication: What Works*
-- Edward Tufte
-- Kieran Healy — *Data Visualization: A Practical Introduction*
-- Lisa Charlotte Muth — text in data viz; color-blind design
+The pieces this guide cites live as their own files in this folder. Start from `README.md`. Tufte’s books and paywalled examples are listed there under Skipped.
