@@ -43,14 +43,18 @@ Leave `~/.cursor/skills-cursor/` alone. That’s the restaurant’s own menu, no
 
 ## 🍱 the menu
 
-_Empty on purpose. The chef is still humming._
+One plate so far. More when they’re wanted.
 
-When a skill lands, it will show up as its own little plate:
+| plate | what it’s for |
+| --- | --- |
+| [`data-viz`](data-viz/SKILL.md) | how to *show* the numbers (chart vs table vs annotation) — not a “make it pretty” spell |
 
 ```text
 sushi-stack/
-  some-skill/
+  data-viz/
     SKILL.md
+    playbooks/
+    references/
 ```
 
 ## 🥢 add a piece
